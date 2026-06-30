@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jh200021.github.io/408-DS/sitemap.xml
